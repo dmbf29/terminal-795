@@ -1,0 +1,34 @@
+Basic Terminal Cheatsheet
+
+pwd
+-> shows where you are
+
+ls / ll
+-> shows the content of the folder you're in
+
+cd folder_name
+-> moves into a folder
+
+cd ..
+-> moves backwards
+
+mkdir folder_name
+-> create a folder
+
+touch filename.extension
+-> creates a file
+
+rm filename
+-> removes file
+
+rm -rf folder_name
+-> removes a folder
+
+code .
+-> opens current folder in vs code
+
+mv filename folder
+-> move into folder
+
+mv filename new_filename
+-> rename it
