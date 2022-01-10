@@ -32,3 +32,6 @@ mv filename folder
 
 mv filename new_filename
 -> rename it
+
+cat filename
+-> display file in the Terminal
